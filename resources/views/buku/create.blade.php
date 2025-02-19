@@ -18,7 +18,7 @@
             <input type="number" name="tahun_terbit" class="form-control" required>
         </div>
         <button type="submit" class="btn btn-success">Simpan</button>
-        <a href="{{ route('buku.index') }}" class="btn btn-secondary">Kembali</a>
+        <a href="{{ route('bukukontol') }}" class="btn btn-secondary">Kembali</a>
     </form>
 </div>
 @endsection
